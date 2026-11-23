@@ -14,3 +14,5 @@ java -cp out Main
 ## Autor 
 AlbarranSamuel
 versión 1.1
+# Letra grande
+Letra pequeña
